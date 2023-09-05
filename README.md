@@ -2,4 +2,21 @@
 
 ## Omnifood-Diet-App
 
-### https://radiant-cranachan-e70e4a.netlify.app/
+### URL: https://radiant-cranachan-e70e4a.netlify.app/
+
+#### In this project I worked with:
+
+- Floats
+- FlexBox
+- CSS Grid
+- Web Design Rules
+- Web Design Frameworks
+- Components
+- Layout Patterns
+- Responsive Web Design
+- Effects
+- Optimizations
+
+#### Implemented
+
+- Everything the web has.
