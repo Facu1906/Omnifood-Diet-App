@@ -16,7 +16,3 @@
 - Responsive Web Design
 - Effects
 - Optimizations
-
-#### Implemented
-
-- Everything the web has.
